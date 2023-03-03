@@ -1,8 +1,5 @@
-Reema Gandhi made marge conflict
-
-:wq
+merge content in B
 
 
-
-
+Is ready
 
